@@ -1,0 +1,50 @@
+# LaTeX intermediate and temporary files
+*.aux
+*.abs
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.log
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# LaTeX intermediate directories
+_build/
+latex.out/
+latex.cache/
+
+# Other temporary files
+*.tmp
+*.bak
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# PDF and DVI output files
+*.pdf
+*.dvi
+
+# DS_Store for macOS
+.DS_Store
+
+# Auxiliary TeXShop files
+*.pdfsync
+*.xmpi
+*.xmpdata
